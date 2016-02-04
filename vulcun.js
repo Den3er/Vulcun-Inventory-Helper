@@ -1,14 +1,18 @@
 // ==UserScript==
 // @name            Vulcun Inventory Helper
-// @description     Calculate items profits and auto-disenchant.
-// @namespace       http://tampermonkey.net/
-// @version         2.0
-// @author          Den3er
+// @namespace       https://github.com/Den3er/vulcun-inventory-helper
+// @description     The best way to calculate profits and auto-disenchanting items.
 // @match           https://vulcun.com/user/items*
 // @require         https://greasyfork.org/scripts/16760-base64-image/code/base64-image.js
-// @license         https://creativecommons.org/licenses/by-nc/4.0/legalcode
+// @updateURL       https://raw.githubusercontent.com/Den3er/vulcun-inventory-helper/master/vulcun.js
+// @downloadURL     https://raw.githubusercontent.com/Den3er/vulcun-inventory-helper/master/vulcun.js
+// @author          Den3er
+// @version         2.1
+// @encoding        utf-8
+// @license         https://opensource.org/licenses/MIT
+// @homepage        https://github.com/Den3er/vulcun-inventory-helper
 // @supportURL      https://github.com/Den3er/vulcun-inventory-helper/issues
-// @contributionURL https://steamcommunity.com/tradeoffer/new/?partner=62239945&token=JeENsh5N
+// @contributionURL https://github.com/Den3er/vulcun-inventory-helper#donate--support-author
 // @grant           none
 // ==/UserScript==
 

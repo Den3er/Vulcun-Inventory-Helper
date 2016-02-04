@@ -6,8 +6,7 @@ If you have any suggestions, feel free to email me at den3er@gmail.com, or use t
 ![](https://raw.githubusercontent.com/Den3er/vulcun-inventory-helper/master/ice-king.gif)
 
 ## Screenshots
-![](https://raw.githubusercontent.com/Den3er/vulcun-inventory-helper/master/items-filter.png)
-![](https://raw.githubusercontent.com/Den3er/vulcun-inventory-helper/master/auto-disenchant.png)
+![](https://raw.githubusercontent.com/Den3er/vulcun-inventory-helper/master/items-filter.png) ![](https://raw.githubusercontent.com/Den3er/vulcun-inventory-helper/master/auto-disenchant.png)
 
 ## How to install
 #### Step 1: Install the ScriptManager extension
@@ -20,8 +19,8 @@ If you have any suggestions, feel free to email me at den3er@gmail.com, or use t
 
 #### Step 2: Install the UserScript
 * [Install](https://greasyfork.org/scripts/14965-vulcun-inventory-helper/code/Vulcun%20Inventory%20Helper.user.js) from greasyfork.org
-* [Install]() from openuserjs.org
-* [Install]() from github.com
+* [Install](https://openuserjs.org/install/Den3er/Vulcun_Inventory_Helper.user.js) from openuserjs.org
+* [Install](https://github.com/Den3er/vulcun-inventory-helper/raw/master/vulcun.js) from github.com
 
 ## How to use it
 * Open [my items](https://vulcun.com/user/items)
