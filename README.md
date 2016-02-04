@@ -20,7 +20,7 @@ If you have any suggestions, feel free to email me at den3er@gmail.com, or use t
 #### Step 2: Install the UserScript
 * [Install](https://greasyfork.org/scripts/14965-vulcun-inventory-helper/code/Vulcun%20Inventory%20Helper.user.js) from greasyfork.org
 * [Install](https://openuserjs.org/install/Den3er/Vulcun_Inventory_Helper.user.js) from openuserjs.org
-* [Install](https://github.com/Den3er/vulcun-inventory-helper/raw/master/vulcun.js) from github.com
+* [Install](https://github.com/Den3er/vulcun-inventory-helper/raw/master/vulcun.user.js) from github.com
 
 ## How to use it
 * Open [my items](https://vulcun.com/user/items)
