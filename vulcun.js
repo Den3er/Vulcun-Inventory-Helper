@@ -4,8 +4,8 @@
 // @description     The best way to calculate profits and auto-disenchanting items.
 // @match           https://vulcun.com/user/items*
 // @require         https://greasyfork.org/scripts/16760-base64-image/code/base64-image.js
-// @updateURL       https://raw.githubusercontent.com/Den3er/vulcun-inventory-helper/master/vulcun.js
-// @downloadURL     https://raw.githubusercontent.com/Den3er/vulcun-inventory-helper/master/vulcun.js
+// @updateURL       https://github.com/Den3er/vulcun-inventory-helper/raw/master/vulcun.js
+// @downloadURL     https://github.com/Den3er/vulcun-inventory-helper/raw/master/vulcun.js
 // @author          Den3er
 // @version         2.1
 // @encoding        utf-8
