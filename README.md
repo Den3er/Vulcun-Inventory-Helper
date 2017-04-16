@@ -1,7 +1,7 @@
 # Vulcun Inventory Helper
-Hey lazy man! Do you want some help to disenchanting your items? This userscript for vulcun.com website to extend the functionality of inventory. Actually the best way to calculate profits and auto-disenchanting items without wasting your time ;).
+Hey lazy man! Do you want some help to disenchanting your items? This userscript for vulcun.com website to extend the functionality of inventory. Actually the best way to calculate profits and auto-disenchanting items without wasting your time.
 
-If you have any suggestions, feel free to email me at den3er@gmail.com, or use the feedback funtion on github.
+If you have any suggestions use the feedback funtion on github.
 
 ![](https://raw.githubusercontent.com/Den3er/vulcun-inventory-helper/master/ice-king.gif)
 
@@ -26,15 +26,6 @@ If you have any suggestions, feel free to email me at den3er@gmail.com, or use t
 * Open [my items](https://vulcun.com/user/items)
 * In the right sidebar you will see a new block
 * Let the magic happen
-
-## Donate \ Support Author
-This script is free and open source and it will stay that way. If you like it and want to show your appreciation and support to its developer, please consider offering a modest donation.
-
-* [Steam Trade Link](https://steamcommunity.com/tradeoffer/new/?partner=62239945&token=JeENsh5N)
-* Rate It (Github, Greasyfork or Openuserjs)
-* Share It (Social Network, Forums, Blogs, etc.)
-* Follow It ([Twitter](https://twitter.com/isbirdman))
-* Become a Fan
 
 ## Changelog
 ##### Release 2.1 (February 4, 2016)
